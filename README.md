@@ -5,15 +5,15 @@ This repository serves as a comprehensive collection of all the tasks and projec
 **Table of Contents**
 
 
-##1.Introduction
+## 1.Introduction
 
-##2.Projects##
+## 2.Projects
 
-###Project 1: Calculator 🧮###
+### Project 1: Calculator 🧮
 
-###Project 2: To-Do List 📝###
+### Project 2: To-Do List 📝
 
-###Project 3: Weather App 🌞###
+### Project 3: Weather App 🌞
 
 **Introduction**
 
