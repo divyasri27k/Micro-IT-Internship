@@ -1,13 +1,13 @@
-**Welcome to the Micro IIT  Internship Projects Repository!**
+***Welcome to the Micro IIT  Internship Projects Repository!***
 
 This repository serves as a comprehensive collection of all the tasks and projects I completed during my Python Programming Internship at Micro IIT. Each task was designed to challenge and enhance my technical skills, providing me with hands-on experience in Python programming, problem-solving, and software development. This repository is organized to showcase my progress, learning, and accomplishments throughout the internship. Each task is stored in its respective folder, complete with source code, documentation, and resources for easy reference.
 
 **Table of Contents**
 
 
-## 1.Introduction
+### 1.Introduction
 
-## 2.Projects
+### 2.Projects
 
 ### Project 1: Calculator 🧮
 
